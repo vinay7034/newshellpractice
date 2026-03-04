@@ -3,7 +3,7 @@
 NUMBER=$1
 
 if [ $NUMBER -lt 100 ]; then
-echo "given number is lessthan $NUMBER"
-else
-echo "given number is greaterthan $NUMBER"
+  echo "given number  $NUMBER is less than 100"
+   else
+echo "given number  $NUMBER is greaterthan 100"
 fi
