@@ -6,4 +6,8 @@ if [ $NUMBER -lt 1000 ] ; then
 
     echo "given $NUMBER is less than 1000"
 
+else
+
+    echo "given $NUMBER is  greater than 1000"
+
 fi
