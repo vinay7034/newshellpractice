@@ -6,7 +6,7 @@ if [ $NUMBER -lt 1000 ] ; then
 
     echo "given $NUMBER is less than 1000"
 
-elif [ $NUMBER -eq 1000]; then
+elif [ $NUMBER -eq 1000 ]; then
 
     echo "given $NUMBER is equal to 1000"
 
