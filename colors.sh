@@ -5,4 +5,6 @@ G="\e[32m"
 y="\e[33m"
 N="\e[0m"
 
-echo -e "$G hellow world"
+echo -e "$G hellow world $N"
+
+echo "normal color"
